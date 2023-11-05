@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/12 13:43:40.000.020,=C:\Users\Nart\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/12 13:44:57.000.010,C:\Users\Nart\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Nart\Documents\ExemploBancoDeDados_SQLite_Aula12\uExemploBancoDeDados_SQLite_Aula12.dfm</Transaction>
+    <Transaction>2021/11/12 13:44:57.000.010,C:\Users\Nart\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Nart\Documents\ExemploBancoDeDados_SQLite_Aula12\uExemploBancoDeDados_SQLite_Aula12.pas</Transaction>
+    <Transaction>2021/11/12 13:45:07.000.993,C:\Users\Nart\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Nart\Documents\ExemploBancoDeDados_SQLite_Aula12\ExemploBancoDeDados_SQLite_Aula12Project.dproj</Transaction>
+    <Transaction>2021/11/12 13:45:40.000.155,=C:\Users\Nart\Documents\ExemploBancoDeDados_SQLite_Aula12\Unit1.pas</Transaction>
+    <Transaction>2021/11/12 14:00:51.000.980,C:\Users\Nart\Documents\ExemploBancoDeDados_SQLite_Aula12\Unit1.dfm=C:\Users\Nart\Documents\ExemploBancoDeDados_SQLite_Aula12\DataModuloExemploBancoDeDados_SQLite_Aula12.dfm</Transaction>
+    <Transaction>2021/11/12 14:00:51.000.980,C:\Users\Nart\Documents\ExemploBancoDeDados_SQLite_Aula12\Unit1.pas=C:\Users\Nart\Documents\ExemploBancoDeDados_SQLite_Aula12\DataModuloExemploBancoDeDados_SQLite_Aula12.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,14 @@
+program ExemploBancoDeDados_SQLite_Aula12Project;
+
+uses
+  Vcl.Forms,
+  uExemploBancoDeDados_SQLite_Aula12 in 'uExemploBancoDeDados_SQLite_Aula12.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
